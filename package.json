@@ -9,6 +9,7 @@
   "author": "Deni Cho <dencho.12@gmail.com>",
   "license": "ISC",
   "dependencies": {
+    "axios": "^0.16.2",
     "dotenv": "^4.0.0",
     "telegraf": "^3.10.1"
   }
