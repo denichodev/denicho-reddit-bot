@@ -12,5 +12,8 @@
     "axios": "^0.16.2",
     "dotenv": "^4.0.0",
     "telegraf": "^3.10.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.12.0"    
   }
 }
